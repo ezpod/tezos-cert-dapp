@@ -39,32 +39,32 @@ Tezos账户在DApp中作为用户的标识ID。
 学习者、所属机构或认证机构以不同的身份登录进入DApp，Tezos账户作为
 DApp的用户标识。
 
-![](tezos-dapp-tutorial/landing.png)
+![](http://blog.hubwiz.com/2020/01/10/tezos-dapp-tutorial/landing.png)
 
 选中一个tezos账户（使用tezbridge）：
 
-![](tezos-dapp-tutorial/select-account.png)
+![](http://blog.hubwiz.com/2020/01/10/tezos-dapp-tutorial/select-account.png)
 
 如果还没有注册，则选择注册：
 
-![](tezos-dapp-tutorial/regsiter.png)
+![](http://blog.hubwiz.com/2020/01/10/tezos-dapp-tutorial/regsiter.png)
 
 学习者可以查看token数量以及所获得的证书：
 
-![](tezos-dapp-tutorial/cert-list.png)
+![](http://blog.hubwiz.com/2020/01/10/tezos-dapp-tutorial/cert-list.png)
 
 机构也可以查看其获得的token并注册机构中参加学习的人员：
 
-![](tezos-dapp-tutorial/institution.png)
+![](http://blog.hubwiz.com/2020/01/10/tezos-dapp-tutorial/institution.png)
 
 认证机构页面：
 
-![](tezos-dapp-tutorial/certifier.png)
+![](http://blog.hubwiz.com/2020/01/10/tezos-dapp-tutorial/certifier.png)
 
 这个DApp中使用的证书数据库是法国Onisep证书库。认证机构
 从数据库中选取一个证书：
 
-![](tezos-dapp-tutorial/select-cert.png)
+![](http://blog.hubwiz.com/2020/01/10/tezos-dapp-tutorial/select-cert.png)
 
 ## 3、智能合约实现
 
