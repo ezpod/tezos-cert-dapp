@@ -199,6 +199,4 @@ import { Tezos } from '@taquito/taquito';
 
 
 ---
-原文链接：[Developing a Dapp on Tezos](https://medium.com/@benoit.rognier/developing-a-dapp-on-tezos-35549a1b3ec4)
-
-汇智网翻译整理，转载请标明出处
+原文链接：[Tezos区块链教育DApp开发教程 - 汇智网](http://blog.hubwiz.com/2020/01/10/tezos-dapp-tutorial/)
